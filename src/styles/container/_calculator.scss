@@ -1,0 +1,14 @@
+.calculator {
+  border-radius: $spacing-base;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 22.5rem;
+  width: 30rem;
+  max-width: 100%;
+  min-height: 35rem;
+  height: 35rem;
+  max-height: 35rem;
+  margin: 0 auto;
+}

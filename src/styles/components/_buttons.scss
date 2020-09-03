@@ -1,0 +1,19 @@
+.main-keys {
+  border: $spacing-primary solid $darkslategray;
+  background-color: $calc-main-keypad-colour;
+  font-size: $font-size-xl;
+  padding: $spacing-base $spacing-xxl;
+  margin: 0 $spacing-md;
+  color: $white;
+  text-align: center;
+  &:hover {
+    background-color: #556ce7;
+  }
+}
+
+.operator-keys {
+  border: none;
+  background-color: transparent;
+  padding: $spacing-sm $spacing-xl;
+  font-size: $font-size-xl;
+}

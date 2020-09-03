@@ -1,0 +1,35 @@
+//font
+//font-family
+$roboto: 'Roboto', sans-serif;
+
+//font-weights
+$roboto-light: 300;
+$roboto-normal: 400;
+$roboto-medium: 500;
+$roboto-bold: 700;
+
+//font-sizes
+$font-size-base: 1rem;
+$font-size-xxs: 0.625rem;
+$font-size-sm: 0.75rem;
+$font-size-md: 0.875rem;
+$font-size-lg: 1.25rem;
+$font-size-xl: 1.5rem;
+$font-size-xxl: 2rem;
+
+//theme
+$calc-display-colour: $white;
+$calc-main-keypad-colour: $darkslategray;
+$calc-operation-keypad-colour: $lightseagreen;
+$app-background-colour: $black;
+
+//spacings
+$spacing-primary: 0.0625rem;
+$spacing-secondary: 0.125rem;
+$spacing-xs: 0.25rem;
+$spacing-sm: 0.5rem;
+$spacing-md: 0.75rem;
+$spacing-base: 1rem;
+$spacing-lg: 1.25rem;
+$spacing-xl: 1.5rem;
+$spacing-xxl: 2rem;
